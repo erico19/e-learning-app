@@ -109,8 +109,4 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 DISCLAIMER: Google Play and the Google Play logo are trademarks of Google LLC.
 ```
 
-## Contributors
 
-<a href="https://github.com/Hash-Studios/e-learning-app/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Hash-Studios/e-learning-app" />
-</a>
